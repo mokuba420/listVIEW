@@ -1,0 +1,8 @@
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagData\bin\Debug\netstandard2.0\FlagData.deps.json
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagData\bin\Debug\netstandard2.0\FlagData.dll
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagData\bin\Debug\netstandard2.0\FlagData.pdb
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfoInputs.cache
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfo.cs
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagData\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagData\obj\Debug\netstandard2.0\FlagData.dll
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagData\obj\Debug\netstandard2.0\FlagData.pdb

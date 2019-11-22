@@ -1,0 +1,15 @@
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.deps.json
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.dll
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.pdb
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagFacts\bin\Debug\netstandard2.0\FlagData.dll
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagFacts\bin\Debug\netstandard2.0\FlagData.pdb
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.csprojAssemblyReference.cache
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagFacts\obj\Debug\netstandard2.0\AllFlagsPage.xaml.g.cs
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagFacts\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagFacts\obj\Debug\netstandard2.0\FlagDetailsPage.xaml.g.cs
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.AssemblyInfoInputs.cache
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.AssemblyInfo.cs
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagFacts\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.csproj.CopyComplete
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.dll
+D:\GITHUBUPDATAS\listVIEW\src\exercise2\final\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.pdb
